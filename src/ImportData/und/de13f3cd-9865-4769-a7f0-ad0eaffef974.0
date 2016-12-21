@@ -14,13 +14,13 @@
 {0,0,0},1,
 {0,0,1},0,1,0,0,0,3,3},1,a9f3b1ac-f51b-431e-b102-55a69acdecad,
 {28,
-{1,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
+{3,02023637-7868-4a5f-8576-835a76e0c9ba},0,1,
 {0,
 {0,
 {"B",1},0}
-},1,"ShowHelp",
+},1,"CloseFrom",
 {1,0},1,
-{1,409b9a53-7f7e-4178-86c1-33176c7c7a7a},
+{2,409b9a53-7f7e-4178-86c1-33176c7c7a7a},
 {0},3,0,0,0,2,2,0,0,0,
 {3,4,
 {0}
@@ -37,7 +37,7 @@
 {0},"",-1,-1,1,0,""},1,
 {"Pattern"},"",2,0,1,
 {10,
-{2,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"ShowHelpExtendedTooltip",
+{4,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,0,"CloseFromExtendedTooltip",
 {1,0},
 {1,0},1,0,0,2,2,
 {3,4,
@@ -124,7 +124,7 @@ cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDov
 L3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiLz4=}
 },
 {0,0},
-{0,1,
+{0,2,
 {8,
 {1,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"ShowHelp",
 {1,1,
@@ -132,6 +132,22 @@ L3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiLz4=}
 },
 {1,1,
 {"en","Show help"}
+},
+{0,
+{0,
+{"B",1},0}
+},
+{0,0,0},
+{4,0,
+{0},"",-1,-1,1,0,""},"",3,0,0,
+{0,0},1,0,1,0,0},
+{8,
+{2,409b9a53-7f7e-4178-86c1-33176c7c7a7a},"CloseFrom",
+{1,1,
+{"en","Close from"}
+},
+{1,1,
+{"en","Close from"}
 },
 {0,
 {0,
